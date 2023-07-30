@@ -12,7 +12,7 @@
  
 </div>
 
-<center>
+<div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</center>
+</div>
 
