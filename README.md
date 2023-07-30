@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
   <h1>
-  hey there
+  Hi, I'm Sonu Pradhan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -31,8 +31,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode.
+- 📫 How to reach me **sonu.dp@somaiya.edu**
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-pradhan-1379761a4/)
+---
+
+<h2 align="left">💬 Connect with me</h2>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sonu-pradhan-1379761a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain-pettiwala-198469202" height="30" width="40" /></a>
+<a href="https://github.com/Sonu208" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="ucp0nkwhvrjytji6dxtbxpiw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1eNnTK9oC_GzqWw8Jk8KLg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucp0nkwhvrjytji6dxtbxpiw" height="30" width="40" /></a>
+</p>
 
 ---
 
