@@ -16,18 +16,18 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
   <h1>
-  Hi, I'm Sonu Pradhan
+  Hey, Welcome to my Profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.licdn.com/dms/image/D4D16AQF9qTpKPwDWDQ/profile-displaybackgroundimage-shrink_350_1400/0/1689508400461?e=1696464000&v=beta&t=jQSTsqWTpRfiyh_vIyDtj7yy_84Yz3O3Hbcv11XgkUM" width="1300" height="300"/>
 </div>
 </div>
 
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode.
