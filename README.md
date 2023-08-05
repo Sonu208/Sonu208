@@ -21,7 +21,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQF9qTpKPwDWDQ/profile-displaybackgroundimage-shrink_350_1400/0/1689508400461?e=1696464000&v=beta&t=jQSTsqWTpRfiyh_vIyDtj7yy_84Yz3O3Hbcv11XgkUM" width="1300" height="300"/>
+  <img src="https://media.licdn.com/dms/image/D4D16AQF9qTpKPwDWDQ/profile-displaybackgroundimage-shrink_350_1400/0/1689508400461?e=1696464000&v=beta&t=jQSTsqWTpRfiyh_vIyDtj7yy_84Yz3O3Hbcv11XgkUM" width="1300" height="200"/>
 </div>
 </div>
 
