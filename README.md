@@ -27,7 +27,7 @@
 
 
 ### :woman_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Developer and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode.
