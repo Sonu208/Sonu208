@@ -13,7 +13,7 @@
 </div>
 
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Sonu208&style=flat-square&color=blue" alt=""/>
 
   <h1>
   Hey, Welcome to my Profile
