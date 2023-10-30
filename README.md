@@ -1,11 +1,10 @@
 
-<div id="header" align="center">
+<div align="center">
 
 
-  <h1>
-  Hey, Welcome to my Profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+   <b>Hey, Welcome to my Profile</b>
+
+
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/D4D16AQGD8HwL-vklpQ/profile-displaybackgroundimage-shrink_350_1400/0/1694274194495?e=1699488000&v=beta&t=JIYDRohX-RiZXyDRYkgN73lQjSwLuKT2IZOw9ycnrB4" width="1300" height="250"/>
