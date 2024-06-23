@@ -18,7 +18,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - :telescope: I’m working as a Developer and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode.
-- 📫 How to reach me **sonu.dp@somaiya.edu**
+- 📫 How to reach me **sonupradhan208@gmail.com**
 
 ---
 
