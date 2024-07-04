@@ -15,7 +15,7 @@
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Developer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode.
+- :zap: In my free time, I solve problems on Leetcode and CodeForces.
 - 📫 How to reach me **sonupradhan208@gmail.com**
 
 ---
